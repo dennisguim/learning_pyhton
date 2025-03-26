@@ -1,3 +1,2 @@
-# learning_pyhton
- first repository ever
-    solving exercises from practice python website
+# curso_git
+ só pra acompanhar o curso git do Guanabara
